@@ -1,0 +1,8 @@
+# Ignore sensitive and environment files
+config.py
+*.pyc
+__pycache__/
+*.log
+*.mp4
+venv/
+.env
