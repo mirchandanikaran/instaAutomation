@@ -8,7 +8,7 @@ from config import APIToken, IG_USER_ID, CAPTION
 ACCESS_TOKEN = APIToken
 IG_USER_ID = IG_USER_ID
 CAPTION = CAPTION
-VIDEO_URL = "https://www.dropbox.com/scl/fi/w7bhkhpce2n24rn6tfb3u/reel_fixed.mp4?rlkey=l3bxtd0202b5y7e5fwwipuibh&st=2mqg8dgx&dl=1"  # ✅ direct-download URL
+VIDEO_URL = "https://www.dropbox.com/scl/fi/y6qjv92y1d16nxd81uoqt/download1.mp4?rlkey=jz957nlvj5cmbe6078hjjnqdu&st=5a1796ut&dl=0"  # ✅ direct-download URL
 
 # ---------------------------------------------------
 # STEP 1: Upload the Reel
